@@ -7,3 +7,5 @@ thirdline
 >>>>>>> parent of 066ebc0... My 2nd commit
 =======
 >>>>>>> parent of 066ebc0... My 2nd commit
+
+This is my third change
